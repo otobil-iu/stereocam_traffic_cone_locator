@@ -1,9 +1,9 @@
 # Stereo Vision based traffic cone detection
 
-This package was developed in 2013 for TechX Challenge 2013 by T-Mobile team
-of Nanyang Technological University, Singapore.  Autonomous robots were 
-required to enter building, where a pair of traffic cones were placed. This
-package was based on ROS and stereo camera (Bumblebee2), 
+This package was developed for TechX Challenge 2013, when the author was 
+a member in T-Mobile team, Nanyang Technological University, Singapore.  
+Autonomous robots were required to enter building, where a pair of traffic 
+cones were placed. This package was based on ROS and stereo camera (Bumblebee2).
 
 ## Installation
 1. Install ROS (tested Ubuntu 14.04 + ROS indigo).
