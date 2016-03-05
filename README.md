@@ -1,4 +1,4 @@
-# Stereo Vision based traffic cone detection
+# Stereo Cam Based Traffic Cone Detection & Localization for Building Entry
 
 This package was developed for TechX Challenge 2013, when the author was 
 a member in T-Mobile team, Nanyang Technological University, Singapore.  
