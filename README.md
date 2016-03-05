@@ -7,13 +7,13 @@ package was based on ROS and stereo camera (Bumblebee2),
 
 ## Installation
 1. Install ROS (tested Ubuntu 14.04 + ROS indigo).
-2. The package use OpenCV, PCL (ROS store support by using 'rosdep').
+2. The package uses OpenCV, PCL (ROS store support by using 'rosdep').
 
 
 ## Usage
-A ros bag is included in the 'data' folder, to test the package:
+A ros bag 'cone.bag' is included in the 'data' folder, to test the package:
 (1) Download and copy the package to your ROS workspace.
-(2) $ cd /your/ros/workspace/root
+(2) $ cd /your/ros/workspace/
 (3) $ catkin_make  && rospack profile
 (4) $ roslaunch stereocam_traffic_cone_locator traffic_cone_locate.launch
 
