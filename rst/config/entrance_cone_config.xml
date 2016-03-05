@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<clsfPath>/rst/clasf/entrance_cone.xml</clsfPath>
+<msgName>entrance_cone_location</msgName>
+<colors type_id="opencv-matrix">
+  <rows>17</rows>
+  <cols>3</cols>
+  <dt>i</dt>
+  <data>
+    70 36 194 89 31 205 57 36 195 97 43 176 69 42 181 67 42 180 51 43
+    180 84 39 189 84 47 169 115 41 182 141 64 159 162 74 143 42 51 158
+    32 51 161 24 42 179 66 50 163 54 56 150</data></colors>
+<band type_id="opencv-matrix">
+  <rows>17</rows>
+  <cols>3</cols>
+  <dt>i</dt>
+  <data>
+    28 9 16 21 7 13 15 5 8 25 11 23 29 6 13 40 7 15 15 10 18 7 4 6 22 10
+    18 16 14 28 35 15 24 40 13 33 7 10 19 12 16 29 12 6 25 8 5 9 17 11
+    22</data></band>
+</opencv_storage>

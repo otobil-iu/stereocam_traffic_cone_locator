@@ -1,0 +1,13 @@
+<launch>
+  <!-- Traffic Cone Node-->
+
+  <node pkg="stereocam_traffic_cone_locator" type="image_pair_to_disparity" 
+  name="image_pair_to_disparity"/>
+
+  <node pkg="stereocam_traffic_cone_locator" type="traffic_cone_locate" 
+  name="traffic_cone_locate"/>
+
+  <node pkg="rosbag" type="play" name="player" output="screen" 
+  args="$(find stereocam_traffic_cone_locator)/data/cone.bag" />
+
+</launch>
